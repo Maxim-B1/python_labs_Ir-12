@@ -46,8 +46,5 @@ def main():
     print(airplane3.public_number)
     print(airplane0.public_number)
 
-
-
-
 main()
 print(Airplane())
